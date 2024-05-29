@@ -1,2 +1,2 @@
-# UI-UX-Design-Project-1
-E-learning Company Website Design in figma
+# Nexus Summer Internship Project 
+E-learning Company Website Design & Music Application (Mobile App UI) in figma
